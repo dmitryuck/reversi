@@ -1,0 +1,1 @@
+startX=320&startY=20&figureSize=56&colWhite=white&colBlack=black&slotEmpty=empty&slotBusy=busy&objPref=K_&sltPref=S_&colMaxCnt=8&rowMaxCnt=8&startCheckNum=60&textColor=#ffffff&fontFamily=Arial&msgFontSize=48&msgTextWidth=250&msgTextHeight=150&labFontSize=24&labTextWidth=150&labTextHeight=100
